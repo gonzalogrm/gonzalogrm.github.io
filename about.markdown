@@ -5,10 +5,9 @@ permalink: /about/
 ---
 
 ## Gonzalo García Martínez
+Graduado en Física por la Universidad de Valencia.
 
-**Graduado en Física por la Universidad de Valencia.**
-
-**Software Developer en BBVA Technology.**
+Software Developer en BBVA Technology.
 
 ### Biografía
 - Durante los años 2013-2016 trabajé en la consultora de comercio internacional **GlobalTradeTender**. Inicialmente participé en tareas de redefinición e implementación de sus bases de datos con un nuevo modelado de datos; posteriormente trabajé en el desarrollo de una aplicación web para acceso a BBDD.
